@@ -76,11 +76,6 @@ The feedforward neural network consists of:
    - Layer 2: 256 neurons with ReLU activation.
 3. **Output Layer**: Predicts class probabilities for 10 categories (modifiable based on dataset).
 
-## Potential Improvements
-
-- Add support for convolutional neural networks (CNNs) for better accuracy.
-- Implement early stopping and learning rate scheduling during training.
-- Allow for dataset augmentation to improve model generalization.
 
 ## License
 
